@@ -28,5 +28,5 @@
 (Plz use Visual Studio Code it is easiest to collaborate on and with Github)
 
 Goal: Learn about what avionics is doing and what data we need to collect 
-- Update: There is no avionics U+1F622
+- Update: There is no avionics 🥲
 
