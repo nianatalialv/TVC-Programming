@@ -30,3 +30,12 @@
 Goal: Learn about what avionics is doing and what data we need to collect 
 - Update: There is no avionics 🥲
 
+
+
+# Proccess:
+
+- What is being measured: angle, acceleration, velocity, Thrust Angle
+- Begining orientation and stabalization 
+- PID controller to deal with the above measurements 
+- Check for errors and log them in file 2 times/second
+- Create graphs of data 
